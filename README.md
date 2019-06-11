@@ -8,8 +8,8 @@ Username = admin1
 password = admin
 
 Regular user: 
-Username: fin 
-password: 123 
+Username = fin 
+password = 123 
 
 Access the site using localhost.
 Log in as either user type and experience the site with unique features. Users have the ability to upload images for other logged in users to view. 
