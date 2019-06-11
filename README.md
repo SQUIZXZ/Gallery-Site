@@ -4,12 +4,12 @@ PHP, HTML5, CSS3 | Website developed for users to be able to upload work to the 
 Credentials for login: 
 
 Admin: 
-Username = admin1 
-Password = admin
+Username = "admin1" 
+Password = "admin"
 
 Regular user: 
-Username = fin 
-Password = 123 
+Username = "fin" 
+Password = "123" 
 
 Access the site using localhost.
 Log in as either user type and experience the site with unique features. Users have the ability to upload images for other logged in users to view. 
