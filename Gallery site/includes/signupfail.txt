@@ -1,0 +1,14 @@
+Failed sign up entries 
+
+IP address: ::1
+
+Host machine: Gamingpc
+
+Date of failed attempt: 2018/06/05
+
+Time of failed attempt: 21:18 pm
+
+User's browser: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+
+Link of reference: http://localhost/loginsystem/signup.php
+

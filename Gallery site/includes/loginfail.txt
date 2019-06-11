@@ -1,0 +1,14 @@
+Failed login entries 
+
+Username: admin
+
+IP address: ::1
+
+Date of failed attempt: 2019/06/09
+
+Time of failed attempt: 16:41 pm
+
+User's browser: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+Link of reference: http://localhost/myproject/index.php
+
