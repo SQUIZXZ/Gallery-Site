@@ -5,11 +5,11 @@ Credentials for login:
 
 Admin: 
 Username = admin1 
-password = admin
+Password = admin
 
 Regular user: 
 Username = fin 
-password = 123 
+Password = 123 
 
 Access the site using localhost.
 Log in as either user type and experience the site with unique features. Users have the ability to upload images for other logged in users to view. 
